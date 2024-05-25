@@ -1,0 +1,16 @@
+.bottom {
+  margin: 10px;
+  padding: 5px;
+  border: 2px solid rgb(144, 139, 139);
+  border-radius: 10px;
+}
+
+.row {
+  border: 2px solid;
+  border-radius: 10px;
+  box-shadow: rgb(211, 236, 127) 0px 20px 30px -10px;
+}
+
+body {
+  background-color: #a1b86b;
+}
